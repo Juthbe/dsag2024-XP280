@@ -10,6 +10,8 @@ sap.ui.define([
 		return Controller.extend("ns.HTML5Module.controller.View1", {
 			onInit: function () {
 
+		
+				
 			}
 		});
 	});
